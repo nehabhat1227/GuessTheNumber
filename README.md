@@ -1,2 +1,1 @@
-# GuessTheNumber
-The program generates a random number, the player makes guesses, and the program provides feedback based on whether the guess is too high or too low. When the player correctly guesses the number, the program displays the number of guesses it took to arrive at the correct answer. 
+A program that challenges the user to estimate a random number after it is generated. "Lower number please!!" appears if the player predicts a higher number. Likewise, "Higher number please!!" appears if the player predicts a lower number. The amount of guesses the player made to get at the number is displayed after they predict the correct number.
